@@ -1,4 +1,5 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git
 
-## Salvando NOVAS mudanças no repositório 
+## Salvando NOVAS alterações no repositório Git.
 
+* comando git push
