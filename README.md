@@ -1,3 +1,4 @@
-# Curso Digital: Git
+# Curso Digital: Git/Versionamento
 
-## Gravando mudanças no repositório
+## Salvando NOVAS mudanças no repositório 
+
